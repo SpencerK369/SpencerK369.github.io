@@ -19,7 +19,14 @@
 		<div id = "wrapper">
     		
         		<h1>Hi there, My name is Spencer!</h1>
-				<p>Welcome to my html file! <a href="#">Read more about my life...</a></p>
+				<p>
+				Welcome to my html file! <a href="#">Read more about my life...</a>
+				1.) Git is a distributed version-control system for tracking changes in source code during software development.
+				2.) Linus Torvalds
+				3.) hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal.
+				4.) My repository is here to help display my work online. It was created as a home work assignment.
+				5.) Github seems to be a great place to learn about software development and contribute to open source projects.
+				</p>
     		
 		
 		<footer>
